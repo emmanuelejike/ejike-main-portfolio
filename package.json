@@ -1,0 +1,16 @@
+{
+  "name": "eke-main",
+  "version": "1.0.0",
+  "description": "<img align=\"center\" src=\"https://user-images.githubusercontent.com/62628408/152209979-0890fce1-2450-4e4a-b65c-7cd7fc4c3daf.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
